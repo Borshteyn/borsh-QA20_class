@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="Lolkek" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="selenium-tests" linkedProjectPath="$MODULE_DIR$/../../selenium-tests" rootProjectPath="$MODULE_DIR$/../../selenium-tests" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../selenium-tests">
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-tests/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-tests/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
