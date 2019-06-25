@@ -16,7 +16,7 @@ public class OpenGoogleTest {
     }
 
     @Test
-    public void testGoogle(){
+     public void testGoogle(){
         System.out.println("google opened successfully");
     }
 

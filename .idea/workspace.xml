@@ -37,6 +37,10 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="repeat-tests" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="selenium-tests" type="f1a62948:ProjectNode" />
               </path>
             </expand>
@@ -47,7 +51,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repeat-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,13 +65,11 @@
         <entry file="file://$PROJECT_DIR$/repeat-tests/src/main/java/com/telran/qa20/OpenGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -111,6 +113,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,8 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,16 +213,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49943504" visible="true" weight="0.18152525" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49943504" visible="true" weight="0.18421052" />
       <window_info id="Structure" order="1" sideWeight="0.500565" side_tool="true" weight="0.18152525" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
@@ -231,7 +231,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32881355" />
+      <window_info active="true" anchor="bottom" id="Build" order="10" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,13 +271,11 @@
     <entry file="file://$PROJECT_DIR$/repeat-tests/src/main/java/com/telran/qa20/OpenGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
           </folding>
         </state>
       </provider>
